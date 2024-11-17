@@ -1,0 +1,23 @@
+python egitimi notlari
+
+algoritma nedir 
+
+algoritma belli bir proglemi cozmek veya belirli bir amaca ulasmak icin tsarlana yoldur
+
+
+duz metin ifadeleri
+
+basla 
+gir iki sayi 
+carp 
+yaz 
+dur  gibi daha detayli yazilir input degsiken vs 
+
+kaba kod 
+
+basla
+input(sayi1,sayi2)
+carp= say1*sayi2
+print(carp)
+dur
+
